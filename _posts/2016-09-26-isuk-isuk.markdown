@@ -1,9 +1,0 @@
----
-published: true
-title: Isuk-isuk
-layout: post
----
-Isuk-isuk nang omah ndeso
-adoh soko kutho.
-Tapi listrik wea ndlesep tekan pojok.
-Paket data wes dadi kebutuhan dino-dino.
