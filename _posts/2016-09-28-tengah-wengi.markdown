@@ -3,10 +3,8 @@ published: true
 layout: post
 title: Tengah wengi
 ---
-Nglilir tengah wengi parak isuk.
-
-Swarane rekaman dalang soko sonsistem, tekan kamar krungu.
-
+Nglilir tengah wengi parak isuk.  
+Swarane rekaman dalang soko sonsistem, tekan kamar krungu.  
 Nginguk njobo lampu padhang koyo-koyo akeh tamu.
 
 Padahal sing nduwe hajat yo wes podho turu.
